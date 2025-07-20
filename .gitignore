@@ -1,0 +1,23 @@
+# Ignore temporary and backup files
+*.bak
+*.tmp
+*.~*
+*.log
+
+# Ignore simulation backups created by EasyBuilder or FPWIN
+*.BAK*
+Configuration settings*
+
+# IDE folders
+.settings/
+workspace/
+.cache/
+build/
+
+# Common exports
+*.zip
+*.simdata
+
+# Optional: ignore ladder diagram images (uncomment if needed)
+# ladder_diagrams/*.png
+# ladder_diagrams/*.jpg
