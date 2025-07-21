@@ -13,5 +13,7 @@ Fully automated coffeehouse system with PLC programming about preparation, deliv
 - PLC Ladder Logic
 - Industrial Automation Protocols
 
-## Documentation
-See `docs/Automated_Coffee_House_System_Project.pdf` for full system design and hardware details.
+## To examine the full project presentation (PDF), please open the link below:  
+https://drive.google.com/file/d/17ph8lAAAQOX-J62rSZo1-3FYynsphjVQ/view
+
+
